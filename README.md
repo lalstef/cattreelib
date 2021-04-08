@@ -118,7 +118,7 @@ cat.size()
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 
 # Clone the library
-git clone https://github.com/lalstef/cattreelib
+git clone https://github.com/lalstef/cattreelib.git
 
 # Install dependencies
 cd cattreelib
