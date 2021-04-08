@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cattreelib"
+version = "0.1.0"
+description = ""
+authors = ["Alexandre Stefanov <stefanov.alexandre@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.3"
+ipython = "^7.22.0"
+pytest-coverage = "^0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
